@@ -51,7 +51,6 @@ Estoy aprendiendo **Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, 
 Busco colaborar en proyectos nuevos que me desafíen y me permitan seguir creciendo.  
 Me interesa compartir conocimientos en **PHP, Laravel** y más.  
 Contáctame: **mateo122427@gmail.com**    
-**Dato curioso**: Participé como mentora en **MentorTIC**, colaborando con expertos en programación y gestión de proyectos.
 
 ---
 
